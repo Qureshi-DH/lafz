@@ -19,40 +19,40 @@ ________________________________________________________________________________
 
 
 
-> Sentence: Islamabad Pakistan ka capital hai aur bahut khubsurat shehr hai.
+**Sentence: Islamabad Pakistan ka capital hai aur bahut khubsurat shehr hai.**
 
-Result:       اسلام آباد پاکستان کا دارالحکومت ہے اور ہیں بہت خوبصورت شہر ہے
-
-
-
-> Sentence: Mere paas phone nahi hai.
-
-Result:       میرے پاس موبائل فون نہیں ہے
+> Result:       اسلام آباد پاکستان کا دارالحکومت ہے اور ہیں بہت خوبصورت شہر ہے
 
 
 
-> Sentence: Ye project Rafsha, Saad aur Daniyal ne mil kar kia.
+**Sentence: Mere paas phone nahi hai.**
 
-Result:       یہ پروجیکٹ بخشا ساتھ اور داڑھی والے مل کر کیا
-
-
-
-> Sentence: Bahut shukriya, Khuda Hafiz.
-
-Result:       اب وقت شکریہ خدا حافظ
+> Result:       میرے پاس موبائل فون نہیں ہے
 
 
 
-> Sentence: Facebook aik jadeed social media platform hai.
+**Sentence: Ye project Rafsha, Saad aur Daniyal ne mil kar kia.**
 
-Result:       فیس بک ایک جدید سوشل میڈیا کا قو وہ شاید س
+> Result:       یہ پروجیکٹ بخشا ساتھ اور داڑھی والے مل کر کیا
 
 
 
-> Sentence: Apne daant ko brush karo.
+**Sentence: Bahut shukriya, Khuda Hafiz.**
 
-Result:       اپنے داد کو پیش کروں
+> Result:       اب وقت شکریہ خدا حافظ
+
+
+
+**Sentence: Facebook aik jadeed social media platform hai.**
+
+> Result:       فیس بک ایک جدید سوشل میڈیا کا قو وہ شاید س
+
+
+
+**Sentence: Apne daant ko brush karo.**
+
+> Result:       اپنے داد کو پیش کروں
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-[]: Developed by: @Qureshi-DH @byrafsha and Saad Zahoor
+[^1]: Developed by: @github/Qureshi-DH @github/byrafsha and Saad Zahoor
