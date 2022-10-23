@@ -53,6 +53,6 @@ ________________________________________________________________________________
 
 > Result:       اپنے داد کو پیش کروں
 
-_______________________________________________________________________________________________________________________________________________________________________
 
-[^1]: Developed by: @github/Qureshi-DH @github/byrafsha and Saad Zahoor
+
+<sub>*Developed by: [Daniyal Hassan](https://github.com/Qureshi-DH), [Rafsha Mazhar]([url_of_github](https://github.com/byrafsha)) and Saad Zahoor</sub>
