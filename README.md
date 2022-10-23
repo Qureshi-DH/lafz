@@ -55,4 +55,4 @@ ________________________________________________________________________________
 
 
 
-<sub>*Developed by: [Daniyal Hassan](https://github.com/Qureshi-DH), [Rafsha Mazhar]([url_of_github](https://github.com/byrafsha)) and Saad Zahoor</sub>
+<sub>*Developed by: [Daniyal Hassan](https://github.com/Qureshi-DH), [Rafsha Mazhar]([url_of_github](https://github.com/byrafsha) and Saad Zahoor</sub>
