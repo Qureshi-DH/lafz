@@ -9,4 +9,28 @@ It can be seen that training the model on monophones only gave us an accuracy of
 
 The results of newly recorded sentences show that the model is pretty accurate on decoding sentences which use the words which already exist in the dictionary. However, for words which do not exist in the model’s dictionary, the accuracy is slightly lower. The model still decodes it to some similar word though, like it decoded the word ‘daant’ to ‘daad’ since the former didn't exist in the dictionary. We are hopeful that extending the training set to a larger dictionary might help us resolve this issue.
 
-#### Lafz itself has been coded in Python, using Kaldi toolkit, on Google Colab.
+##### Lafz itself has been coded in Python, using Kaldi toolkit, on Google Colab.
+
+###### The dataset we used for our project was generated as part of our coursework, by the course students, and is internal. Unfortunately it cannot be publicised. However all other links pertaining to the research or development of this project are present within the report document, and are openly accessible to all.
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+Here are some samples results we got during the testing:
+
+Sentence: Islamabad Pakistan ka capital hai aur bahut khubsurat shehr hai.
+Result:       اسلام آباد پاکستان کا دارالحکومت ہے اور ہیں بہت خوبصورت شہر ہے
+
+Sentence: Mere paas phone nahi hai.
+Result:       میرے پاس موبائل فون نہیں ہے
+
+Sentence: Ye project Rafsha, Saad aur Daniyal ne mil kar kia.
+Result:       یہ پروجیکٹ بخشا ساتھ اور داڑھی والے مل کر کیا
+
+Sentence: Bahut shukriya, Khuda Hafiz.
+Result:       اب وقت شکریہ خدا حافظ
+
+Sentence: Facebook aik jadeed social media platform hai.
+Result:       فیس بک ایک جدید سوشل میڈیا کا قو وہ شاید س
+
+Sentence: Apne daant ko brush karo..
+Result:       اپنے داد کو پیش کروں
