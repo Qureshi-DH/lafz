@@ -13,44 +13,46 @@ The results of newly recorded sentences show that the model is pretty accurate o
 
 ###### The dataset we used for our project was generated as part of our coursework, by the course students, and is internal. Unfortunately it cannot be publicised. However all other links pertaining to the research or development of this project are present within the report document, and are openly accessible to all.
 
-_________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 
-#### Here are some samples results we got during the testing:
+#### Here are some samples **results** we got during the testing:
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Islamabad Pakistan ka capital hai aur bahut khubsurat shehr hai.
+
+> Sentence: Islamabad Pakistan ka capital hai aur bahut khubsurat shehr hai.
 
 Result:       اسلام آباد پاکستان کا دارالحکومت ہے اور ہیں بہت خوبصورت شہر ہے
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Mere paas phone nahi hai.
+
+> Sentence: Mere paas phone nahi hai.
 
 Result:       میرے پاس موبائل فون نہیں ہے
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Ye project Rafsha, Saad aur Daniyal ne mil kar kia.
+
+> Sentence: Ye project Rafsha, Saad aur Daniyal ne mil kar kia.
 
 Result:       یہ پروجیکٹ بخشا ساتھ اور داڑھی والے مل کر کیا
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Bahut shukriya, Khuda Hafiz.
+
+> Sentence: Bahut shukriya, Khuda Hafiz.
 
 Result:       اب وقت شکریہ خدا حافظ
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Facebook aik jadeed social media platform hai.
+
+> Sentence: Facebook aik jadeed social media platform hai.
 
 Result:       فیس بک ایک جدید سوشل میڈیا کا قو وہ شاید س
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Sentence: Apne daant ko brush karo.
+
+> Sentence: Apne daant ko brush karo.
 
 Result:       اپنے داد کو پیش کروں
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+_______________________________________________________________________________________________________________________________________________________________________
+
+[^]: Developed by: @Qureshi-DH @byrafsha and Saad Zahoor
